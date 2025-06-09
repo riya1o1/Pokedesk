@@ -28,13 +28,14 @@ A fun Pokédex web app where users can **browse, catch, and collect Pokémon**, 
 ---
 
 ## 📁 Folder Structure (planned)
-
+```
 pokedesk/
--├── index.html
--├── style.css
--├── script.js
--├── assets/ # Images, icons, etc.
--└── ml-model/ # Teachable Machine model (to be added)
+├── index.html
+├── style.css
+├── script.js
+├── assets/ # Images, icons, etc.
+└── ml-model/ # Teachable Machine model (to be added)
+```
 ---
 
 ## ✅ TODO (Progress Tracker)
