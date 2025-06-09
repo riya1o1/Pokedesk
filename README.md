@@ -1,26 +1,35 @@
-# PokéDesk 🧬
-
-🚧 **Project Under Construction** 🚧
-
-PokéDesk will be an intelligent Pokédex web app that lets users explore and classify Pokémon using Machine Learning.
-
-Stay tuned for updates!
-
-## 📌 Planned Features
-
-- Pokémon classification using ML
-- Pokédex-style search interface
-- Real-time stats and filtering
-- Clean UI with responsive design
-
-## 📅 Project Timeline
-
-- 🔲 Dataset Collection
-- 🔲 Data Cleaning & EDA
-- 🔲 Model Building
-- 🔲 Frontend UI
-- 🔲 Integration & Deployment
 
 ---
 
-📁 Project will be updated soon. Follow or ⭐ to stay updated!
+## ✅ TODO (Progress Tracker)
+
+- [ ] Setup basic UI
+- [ ] Fetch Pokémon from PokeAPI
+- [ ] Display Pokémon list with images
+- [ ] Add "Catch" button and logic
+- [ ] Store caught Pokémon using localStorage
+- [ ] Build "My Collection" page
+- [ ] Train & integrate image recognition model (Teachable Machine)
+- [ ] Add voice command feature (Web Speech API)
+- [ ] Polish UI and deploy on GitHub Pages
+
+---
+
+## 🤖 ML Feature (Coming Soon)
+
+- Train a simple image classifier using [Teachable Machine](https://teachablemachine.withgoogle.com/)
+- Integrate the exported TensorFlow.js model
+- Identify Pokémon based on uploaded or webcam images
+
+---
+
+## 📜 License
+
+MIT © 2025 Riya Singh
+
+---
+
+## ✨ Stay Tuned!
+
+More features and updates will be added soon as the project progresses.
+
