@@ -60,12 +60,6 @@ pokedesk/
 
 ---
 
-## 📜 License
-
-MIT © 2025 Riya Singh
-
----
-
 ## ✨ Stay Tuned!
 
 More features and updates will be added soon as the project progresses.
